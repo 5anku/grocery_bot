@@ -1,6 +1,6 @@
 # grocery_bot
 
-A new Flutter project.
+A new Flutter project to help grocery shopping.
 
 ## Getting Started
 
