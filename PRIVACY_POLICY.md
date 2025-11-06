@@ -1,6 +1,6 @@
 # Privacy Policy for My Grocery List
 
-**Last Updated:** 2024-07-26
+**Last Updated:** 7th November 2025
 
 Thank you for using My Grocery List, a simple shopping list application.
 
@@ -36,4 +36,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have any questions about this Privacy Policy, you can contact us.
 
-_(You should add your contact email or a relevant contact method here.)_
+_(aravind.p.nair@gmail.com)_
