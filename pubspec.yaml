@@ -1,6 +1,6 @@
-name: grocery_bot
-description: Uber-style shopping list app
-
+name: my_grocery_list
+description: Shopping list app
+version: 1.2.1+1
 publish_to: 'none'
 
 environment:
@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   shared_preferences: ^2.1.1
-  screenshot: ^3.0.0
+  flutter_displaymode: ^0.7.0
 
 flutter:
   uses-material-design: true
@@ -24,3 +24,12 @@ flutter:
         - asset: assets/fonts/Poppins-Regular.ttf
         - asset: assets/fonts/Poppins-Bold.ttf
           weight: 700
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.14.4
+  change_app_package_name: ^1.1.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/Logo.png"
